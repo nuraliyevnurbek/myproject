@@ -31,13 +31,10 @@ public class MyGdxGame extends ApplicationAdapter {
 		bird[1] = new Texture("bird2.png");
 
 	}
+//sssssssssssssssssssssssssssssssssssss
 
-	public void gg(){
-		
-	}
 	@Override
 	public void render() {
-
 
 		batch.begin();
 		batch.draw(background, 0, 0, Gdx.graphics.getWidth(), Gdx.graphics.getHeight());
