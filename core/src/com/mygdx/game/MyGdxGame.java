@@ -32,7 +32,7 @@ public class MyGdxGame extends ApplicationAdapter {
 
 	}
 //sssssssssssssssssssssssssssssssssssss
-
+//ggggggggggggggggggggggg
 	@Override
 	public void render() {
 
